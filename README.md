@@ -140,10 +140,10 @@ All regulatory text read on **eCFR**; framework structures taken from publishers
 
 ## About the author
 
-Ron Richardson — CompTIA Security+, Per Scholas cybersecurity cohort, with five years' prior clinical case management experience working in EPIC.
+Ron Richardson, CRS — CompTIA Security+, Per Scholas cybersecurity cohort, with five years' prior clinical case management experience working in EPIC and other EHR workflows
 
-That clinical background shows up in the judgment calls rather than the credentials: which risks a real clinic actually faces, why the front desk carries disproportionate exposure, why a waiting-room sign-in sheet is a bigger problem in behavioral health than in primary care, and why a security control that is slower than the workaround will simply be worked around.
+That clinical background shows up in the judgment calls more than the credentials: which risks clinics actually face, why the front desk carries disproportionate exposure, why a waiting-room sign-in sheet is a bigger problem in behavioral health than in primary care, and why a security control that is slower than the workaround will simply be worked around.
 
 ---
 
-*Fictional scenario. Real regulations. Built as a demonstration of healthcare GRC capability.*
+*Fictional scenario based on true events. Real regulations. Built as a demonstration of healthcare GRC capability.*
